@@ -22,3 +22,11 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Dev tools
+/.claude
+/_bmad
+/_bmad-output
+/create_files.php
+/write_views.php
+CLAUDE.md
